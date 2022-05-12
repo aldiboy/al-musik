@@ -1,5 +1,5 @@
 {
-    "name": "Senja-Musik",
+    "name": "al-musik",
     "description": "Music allow you to stream music trought the telegram voice chat feature.",
     "keywords": ["music", "voice chat", "telegram"],
     "repository": "https://github.com/itsmesenja/SenjaMusik",
@@ -12,7 +12,7 @@
         "OWNER_ID": {
             "description": "isi dengan id telegram Anda sebagai pemilik bot",
             "required": true,
-            "value": "1829900877"
+            "value": "2046011452"
         },
         "ASS_ID": {
             "description": "isi dengan telegram id akun assistant",
@@ -47,17 +47,17 @@
         "GROUP": {
             "description": "Isi dengan username group tanpa @",
             "required": true,
-            "value": "senjaprivateroom"
+            "value": "sokinsinial"
         },
          "CHANNEL": {
             "description": "Isi dengan username channel tanpa @",
             "required": true,
-            "value": "itsmesenjah"
+            "value": "soasiklo69"
         },
         "SUDO_USERS": {
             "description": "isi dengan user id yang dapat mengakses semua fungsi di bot anda (dipisahkan dengan spasi).",
             "required": true,
-            "value": "1829900877"
+            "value": "2046011452"
         },
         "DURATION_LIMIT": {
             "description": "diisi, jangan ubah ini!!",
