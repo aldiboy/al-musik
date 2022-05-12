@@ -1,8 +1,6 @@
-<h2 align="centre">SENJA MUSIK</h2>
+<h2 align="centre">AL MUSIK</h2>
 
-<p align="center">
-  <img src="https://telegra.ph/file/00f5f59f4ba475ea4451c.jpg">
-</p>
+
 
 ## Disclaimer
 
