@@ -1,16 +1,16 @@
-<h2 align="centre">Azusa Music Player</h2>
+<h2 align="centre">SENJA MUSIK</h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/724f2e3c260b103b492ad.jpg">
+  <img src="https://telegra.ph/file/00f5f59f4ba475ea4451c.jpg">
 </p>
 
 ## Disclaimer
 
 ```
-Azusa Music Bot adalah bot bertema anime yang dapat memutar lagu atau streaming video di obrolan suara  bersama teman mu di grub.
-Azusa dapat memutar lagu dengan durasi lagu lebih dari 3 jam.
-Azusa adalah bot musik versi modifikasi dari project yukki yang lama,karena itu sebagian dari fiturnya ada yang mirip dengan repository milik team yukki.
-Azusa sendiri merupakan hasil copy an dari repository milik teman saya yaitu Muhammad Rizky atau pemilik dari Kyy-Userbot.
+Senja Music Bot adalah bot bertema anime yang dapat memutar lagu atau streaming video di obrolan suara  bersama teman mu di grub.
+Senja dapat memutar lagu dengan durasi lagu lebih dari 3 jam.
+Senja adalah bot musik versi modifikasi dari project yukki yang lama,karena itu sebagian dari fiturnya ada yang mirip dengan repository milik team yukki.
+Senja sendiri merupakan hasil copy an dari repository milik teman saya yaitu Muhammad Rizky atau pemilik dari Kyy-Userbot.
 Mohon menggunakannya untuk hal yang positif
 Dilarang keras untuk memutar atau streaming video dewasa menggunakan repository ini!!!
 ```
@@ -53,10 +53,10 @@ Dilarang keras untuk memutar atau streaming video dewasa menggunakan repository 
 </h2>
 
 <p align="center">
-<a href="https://dashboard.heroku.com/new?template=https://github.com/zezanx26/AzusaMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
+<a href="https://dashboard.heroku.com/new?template=https://github.com/itsmesenja/SenjaMusik"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
 
 ### Support & Updates 
-<a href="https://t.me/zxzansupport"><img src="https://img.shields.io/badge/Join-Group%20Support-red.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/zezanxproject"><img src="https://img.shields.io/badge/Join-Updates%20Channel-white.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/senjaprivateroom"><img src="https://img.shields.io/badge/Join-Group%20Support-red.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/itsmesenjah"><img src="https://img.shields.io/badge/Join-Updates%20Channel-white.svg?style=for-the-badge&logo=Telegram"></a>
 
 
 ## Credits
@@ -74,9 +74,10 @@ Dilarang keras untuk memutar atau streaming video dewasa menggunakan repository 
 - TGVCBot
 - Yukki
 - PyTgCalls
-- AzusaMusic
+- SenjaMusik
 
 #### Contributors
+- [Senja](https://github.com/itsmesenja): Senja Owner
 - [ZezanX](https://github.com/zezanx26): Zezan Owner
 - [VxVenz](https://github.com/elskuyy): Venz Owner
 - [Kyy](https://github.com/muhammadrizky16): Nasty Owner
